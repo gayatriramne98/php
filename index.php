@@ -16,8 +16,8 @@ echo "<style>
       </style>";
 echo "</head>";
 echo "<body>";
-echo "<h1>Welcome to My PHP Application</h1>";
-echo "<p>Deployed using Docker and Kubernetes</p>";
+echo "<h1>Welcome to My PHP Application v1:</h1>";
+echo "<p>Deployed using Docker </p>";
 echo "<p>GitHub Repository Integration Successful!</p>";
 echo "</body>";
 echo "</html>";
